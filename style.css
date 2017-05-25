@@ -1,0 +1,16 @@
+            body{background-color:#35EEFF;}
+			h1{
+				text-align:center;
+				font-size:13em;
+				font-family:'Merienda One',cursive;
+				color:black;
+			
+			}
+			h1:hover{
+				color:#00A01F;
+			}
+			p,ol,ul{
+				font-size:2em;
+				font-family: 'Handlee', cursive;
+				color:black;
+			}
